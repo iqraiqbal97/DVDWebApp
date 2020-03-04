@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body{
+	background: yellow;
+}
+	.button{
+	background: cornflowerblue;
+	padding:10px;
+	margin: 10px 0;
+	border-radius:10px
+
+	}
+	
+	.button2{
+	background: red;
+	padding:10px;
+	margin: 10px 0;
+	border-radius:10px
+	}
+ 
+ 
+ td{
+ 	padding: 20px 10px 10px}

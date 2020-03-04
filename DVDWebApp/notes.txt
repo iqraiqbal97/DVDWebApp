@@ -1,0 +1,25 @@
+//Create model - Bank
+//Create database
+//Implement the dao
+	//Load/import the driver(JDBC jar file)
+	//getConnetion() method
+	//implement the CRUD methods
+	
+	//TEST dao in standalone java project
+
+//Create a dynammic web projet
+	//Import all the required jar files(WC/Webinf/lib)
+	//Create packages
+	//Import the models and DAO
+
+	//Create and implement the homepage servlet
+	//Insert servlet
+	//Update servlet 
+	//Delete servlet
+	//API
+		//Implement POST GET PUT and DELETE
+		//Test in postman
+	//Secure web app with login
+	//Secure API with APIKEY
+	
+//MAKE IT LOOK PRETTY
